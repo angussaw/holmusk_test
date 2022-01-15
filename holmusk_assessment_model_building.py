@@ -16,7 +16,7 @@ from sklearn.linear_model import LinearRegression
 
 import os
 orig_wd = os.getcwd()
-wd = r'C:\Users\angus\Documents\holmusk'
+wd = r'C:\Users\angus\Documents\holmusk1'
 os.chdir(wd)
 import holmusk_assessment_data_prep
 
