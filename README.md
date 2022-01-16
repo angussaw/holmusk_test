@@ -1,7 +1,7 @@
 # Holmusk Dataset Challenge
 
 ## Objective:
-To analyze the clinical and financial data of patients hospitalized for a certain condition and find insights about the drivers of cost of care
+To analyze the clinical and demographic data of patients hospitalized for a certain condition and find insights about the drivers of cost of care
 
 ## Raw data and Python Scripts:
 bill_amount.csv: Contains the amount for each unique bill id\
